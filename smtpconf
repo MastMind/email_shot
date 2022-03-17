@@ -1,0 +1,8 @@
+{
+	"smtp_server_encryption_enabled" : "1",
+	"smtp_server_authentication_enabled" : "1",
+	"smtp_server_authentication_login" : "youremailaccount@here.com",
+	"smtp_server_authentication_password" : "yoursemailaccountpasswordhere",
+	"smtp_server_port" :"587",
+	"smtp_server_address" : "smtp.server.address"
+}

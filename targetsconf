@@ -1,0 +1,16 @@
+[
+	{
+		"email" : "victim1@address.com",
+		"fromaddr" : "spooffrom@address.com",
+		"subject" : "Subject caption",
+		"signature" : "Signature caption",
+		"text" : "Message here"
+	},
+	{
+                "email" : "victim2@address.com",
+                "fromaddr" : "spooffrom@address.com",
+                "subject" : "Subject caption",
+                "signature" : "Signature caption",
+                "text" : "Message here"
+        }
+]
